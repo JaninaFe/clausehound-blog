@@ -13,7 +13,7 @@ Small Business Law Library
 ---
 
 [https://pixabay.com/en/signature-sign-writing-pen-author-389933/](https://pixabay.com/en/signature-sign-writing-pen-author-389933/)
-**Links from this article:**[IP Transfer Agreement](https://clausehound.com/legal-contract/14981#!/document=)[Software Development Agreement](https://clausehound.com/legal-contract/16201)[Non-Disclosure Agreement](https://clausehound.com/legal-contract/15656)[Small Business Law Library](https://clausehound.com/small-business-law-library/)
+**Links from this article:** [IP Transfer Agreement](https://clausehound.com/legal-contract/14981#!/document=)[Software Development Agreement](https://clausehound.com/legal-contract/16201)[Non-Disclosure Agreement](https://clausehound.com/legal-contract/15656)[Small Business Law Library](https://clausehound.com/small-business-law-library/)
 
 The power to contract is extremely broad, but that doesn’t mean the power is limitless. You can’t contract to perform illegal activities and you certainly can’t contract away constitutional rights. Contracts won’t be enforceable if they’re unconscionable and, in making enforceability determinations, courts give significant weight to public policy.
 
@@ -36,7 +36,8 @@ If other IP rights in the work have been transferred to you, depending on how yo
  
 
 To avoid liability and ensure that you have complete rights to use the work of the author, **a standard moral rights clause should be included in any IP agreement**. For example, most software development agreements will include a moral rights waiver clause in addition to an assignment of IP clause.
-** **[Source](https://pixabay.com/en/law-justice-court-judge-legal-1063249/)
+[Source](https://pixabay.com/en/law-justice-court-judge-legal-1063249/)
+
 **2. Right to Economic Competition: Non-Disclosure, Non-Solicit, & Non-Compete**
 
  
